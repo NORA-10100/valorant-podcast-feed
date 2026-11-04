@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>VALORANT最新情報</title>
+  <link>https://muse.ai/podcasts/feed/1311693172037714/bdcc33aa-7cee-4257-a425-0cba553411e0</link>
+  <description>IT専門学生がお届けするVALORANT最新情報ポッドキャスト。新エージェント、パッチノート、VCTなど競技シーンの話題を、ユイとレンが毎週解説します。</description>
+  <language>ja</language>
+  <copyright>IT専門学生</copyright>
+  <managingEditor>ogawa10100@gmail.com (IT専門学生)</managingEditor>
+  <webMaster>ogawa10100@gmail.com (IT専門学生)</webMaster>
+  <itunes:author>IT専門学生</itunes:author>
+  <itunes:owner>
+    <itunes:name>IT専門学生</itunes:name>
+    <itunes:email>ogawa10100@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://muse.ai/podcasts/media/1311693172037714/bdcc33aa-7cee-4257-a425-0cba553411e0/cover.png"/>
+  <itunes:category text="Leisure">
+    <itunes:category text="Video Games"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <image>
+    <url>https://muse.ai/podcasts/media/1311693172037714/bdcc33aa-7cee-4257-a425-0cba553411e0/cover.png</url>
+    <title>VALORANT最新情報</title>
+    <link>https://muse.ai/podcasts/feed/1311693172037714/bdcc33aa-7cee-4257-a425-0cba553411e0</link>
+  </image>
+  <item>
+    <title>VALORANT最新情報 ハッシュ登場とChampions 2026</title>
+    <description>新エージェント ハッシュ、Champions 2026でLOUD優勝、VCT 2027の大改革までをユイとレンが解説</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311693172037714/bdcc33aa-7cee-4257-a425-0cba553411e0/ep-3e945fa2-7304-46b7-acb4-b30d4461bfe3.mp3" length="2439205" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-3e945fa2-7304-46b7-acb4-b30d4461bfe3</guid>
+    <pubDate>Wed, 04 Nov 2026 03:48:41 +0000</pubDate>
+    <itunes:duration>304</itunes:duration>
+    <itunes:author>IT専門学生</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+</channel>
+</rss>
